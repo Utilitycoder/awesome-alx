@@ -24,6 +24,8 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
   - [Alx-Frontend-For-Fun](#alx-frontend-for-fun)
     - [Flexbox](#flexbox)
     - [Markdown to HTML](#markdown-to-html)
+  - [Alx-React](#alx-react)
+    - [0x00-Webpack](#0x00-webpack)
 
 
 <!-- tocstop -->
@@ -123,3 +125,11 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 * [Use Python-Markdown to Convert Markdown to HTML](https://www.linode.com/docs/guides/how-to-use-python-markdown-to-convert-markdown-to-html/)
 * [How to Convert Markdown to HTML in Python](https://fedingo.com/how-to-convert-markdown-to-html-in-python/)
 * [Markdown to HTML with Python Syntax Highlighting](https://www.youtube.com/watch?v=h_QhG-uAUS4)
+
+## Alx-React
+
+### 0x00-Webpack
+
+* [Webpack documentation](https://webpack.js.org/concepts/)
+* [Webpack beginner guide](https://www.sitepoint.com/webpack-beginner-guide/)
+* [npm-package.json](https://docs.npmjs.com/cli/v9/configuring-npm/package-json)
