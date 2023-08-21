@@ -10,27 +10,27 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 - [Awesome ALX ](#awesome-alx-)
   - [Table of contents](#table-of-contents)
-  - [Alx-Frontend-Javascript](#alx-frontend-javascript)
+  - [Alx-Frontend-Javascript :file\_folder:](#alx-frontend-javascript-file_folder)
     - [0x00. ES6 Basics](#0x00-es6-basics)
     - [0x01. ES6 Promises](#0x01-es6-promises)
     - [0x02. ES6 classes](#0x02-es6-classes)
     - [0x03. ES6 data manipulation](#0x03-es6-data-manipulation)
     - [0x04. Typescript](#0x04-typescript)
-  - [Alx-Frontend](#alx-frontend)
+  - [Alx-Frontend :file\_folder:](#alx-frontend-file_folder)
     - [0x00-html\_advanced](#0x00-html_advanced)
     - [0x01. Developer tools](#0x01-developer-tools)
     - [0x02. Advanced CSS](#0x02-advanced-css)
     - [0x03. Responsive design](#0x03-responsive-design)
-  - [Alx-Frontend-For-Fun](#alx-frontend-for-fun)
+  - [Alx-Frontend-For-Fun :file\_folder:](#alx-frontend-for-fun-file_folder)
     - [Flexbox](#flexbox)
     - [Markdown to HTML](#markdown-to-html)
-  - [Alx-React](#alx-react)
+  - [Alx-React :file\_folder:](#alx-react-file_folder)
     - [0x00-Webpack](#0x00-webpack)
 
 
 <!-- tocstop -->
 
-## Alx-Frontend-Javascript
+## Alx-Frontend-Javascript :file_folder:
 
 ### 0x00. ES6 Basics
 
@@ -67,7 +67,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 * [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 * [TypeScript documentation](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 
-## Alx-Frontend
+## Alx-Frontend :file_folder:
 
 ### 0x00-html_advanced
 
@@ -105,7 +105,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 * [Media Queries | A collection of inspirational websites using media queries and responsive web design](https://mediaqueri.es/)
 * [Responsive Design Newsletter](https://bytes.dev/?s=rwd)
 
-## Alx-Frontend-For-Fun
+## Alx-Frontend-For-Fun :file_folder:
 
 ### Flexbox
 
@@ -126,7 +126,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 * [How to Convert Markdown to HTML in Python](https://fedingo.com/how-to-convert-markdown-to-html-in-python/)
 * [Markdown to HTML with Python Syntax Highlighting](https://www.youtube.com/watch?v=h_QhG-uAUS4)
 
-## Alx-React
+## Alx-React :file_folder:
 
 ### 0x00-Webpack
 
