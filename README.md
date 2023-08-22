@@ -10,24 +10,24 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 - [Awesome ALX ](#awesome-alx-)
   - [Table of contents](#table-of-contents)
-  - [Alx-Frontend-Javascript :file_folder:](#alx-frontend-javascript-file_folder)
+  - [Alx-Frontend-Javascript :file\_folder:](#alx-frontend-javascript-file_folder)
     - [0x00. ES6 Basics](#0x00-es6-basics)
     - [0x01. ES6 Promises](#0x01-es6-promises)
     - [0x02. ES6 classes](#0x02-es6-classes)
     - [0x03. ES6 data manipulation](#0x03-es6-data-manipulation)
     - [0x04. Typescript](#0x04-typescript)
-  - [Alx-Frontend :file_folder:](#alx-frontend-file_folder)
-    - [0x00-html_advanced](#0x00-html_advanced)
+  - [Alx-Frontend :file\_folder:](#alx-frontend-file_folder)
+    - [0x00-html\_advanced](#0x00-html_advanced)
     - [0x01. Developer tools](#0x01-developer-tools)
     - [0x02. Advanced CSS](#0x02-advanced-css)
     - [0x03. Responsive design](#0x03-responsive-design)
-  - [Alx-Frontend-For-Fun :file_folder:](#alx-frontend-for-fun-file_folder)
+  - [Alx-Frontend-For-Fun :file\_folder:](#alx-frontend-for-fun-file_folder)
     - [Flexbox](#flexbox)
     - [Markdown to HTML](#markdown-to-html)
-  - [Alx-React :file_folder:](#alx-react-file_folder)
+  - [Alx-React :file\_folder:](#alx-react-file_folder)
     - [0x00-Webpack](#0x00-webpack)
-  - [Alx-Python-Backend: file_folder:](#alx-python-backend-file_folder)
-    - [0x00-Python-Variable_annotations](#0x00-python-variable_annotations)
+  - [Alx-Python-Backend: :file\_folder:](#alx-python-backend-file_folder)
+    - [0x00-Python-Variable\_annotations](#0x00-python-variable_annotations)
     - [0x01-Python-Async](#0x01-python-async)
     - [0x02-Python-Async-Comprehension](#0x02-python-async-comprehension)
 
@@ -137,7 +137,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Webpack beginner guide](https://www.sitepoint.com/webpack-beginner-guide/)
 - [npm-package.json](https://docs.npmjs.com/cli/v9/configuring-npm/package-json)
 
-## Alx-Python-Backend: file_folder:
+## Alx-Python-Backend: :file_folder:
 
 ### 0x00-Python-Variable_annotations
 
