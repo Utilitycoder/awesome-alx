@@ -24,6 +24,8 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
   - [Alx-Frontend-For-Fun :file\_folder:](#alx-frontend-for-fun-file_folder)
     - [Flexbox](#flexbox)
     - [Markdown to HTML](#markdown-to-html)
+    - [Form](#form)
+    - [Accessibility](#accessibility)
   - [Alx-React :file\_folder:](#alx-react-file_folder)
     - [0x00-Webpack](#0x00-webpack)
   - [Alx-Python-Backend: :file\_folder:](#alx-python-backend-file_folder)
@@ -128,6 +130,33 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Use Python-Markdown to Convert Markdown to HTML](https://www.linode.com/docs/guides/how-to-use-python-markdown-to-convert-markdown-to-html/)
 - [How to Convert Markdown to HTML in Python](https://fedingo.com/how-to-convert-markdown-to-html-in-python/)
 - [Markdown to HTML with Python Syntax Highlighting](https://www.youtube.com/watch?v=h_QhG-uAUS4)
+
+### Form
+
+* [An Extensive Guide To Web Form Usability — Smashing Magazine](https://intranet.alxswe.com/rltoken/F75QhuOGVwrVlw3jyD59LA)
+* [Forms - UX Movement](https://intranet.alxswe.com/rltoken/FHn2z9omZm-zZCdL0L6jYw)
+* [Placeholders in Form Fields are Harmful (Video)](https://intranet.alxswe.com/rltoken/IYEz09iT2H3TsnxrE1NNCA)
+* [The Anatomy of Accessible Forms: Best Practices | Deque](https://intranet.alxswe.com/rltoken/dj3c68pJZ98_mOwVZIffRg)
+* [Pure CSS Custom Error Messaging for Default Form Elements – Sarah Holley Design](https://intranet.alxswe.com/rltoken/0AEw7wVlCeD2g6qxmmMNdg)
+
+### Accessibility
+
+* [Accessibility is not a feature. — Ethan Marcotte](https://intranet.alxswe.com/rltoken/BAbrxnpYJ8zELBc6g3Hcsg)
+* [How to Meet WCAG (Quickref Reference](https://intranet.alxswe.com/rltoken/zHXl50r6h6CtXPTizdoD6g)
+* [Web Accessibility Guidebook for Developers](https://intranet.alxswe.com/rltoken/nMtrdVLVeJMKA0A6lGihVA)
+* [Testing with assistive technologies - Service Manual - GOV.UK](https://intranet.alxswe.com/rltoken/rnJCwYgE0kvgk1iQUvC9YQ)
+* [A11Y Style Guide](https://intranet.alxswe.com/rltoken/qFUpFID7Oxw38G3ZHFSjPA)
+* [Building Pylon-Free Web Pages: An Intro to Web Accessibility](https://intranet.alxswe.com/rltoken/OmQR7UuCJPx5_p4ZX8fWgQ)
+* [I Threw Away my Mouse - 24 Accessibility](https://intranet.alxswe.com/rltoken/QNxS6kzbjGKk0DQqdN4Q6A)
+* [I Used a Switch Control for a Day - 24 Accessibility](https://intranet.alxswe.com/rltoken/4WS3uYbRtXoSomvRfDcf7w)
+* [The Myths of Color Contrast Accessibility](https://intranet.alxswe.com/rltoken/Pi_EASrSDjBI0axYExG6Hw)
+* [IAAP Certification](https://intranet.alxswe.com/rltoken/V-eyZ7AZf_6OqZawqGX2Ug)
+* [Accessibility Blog | Deque Systems](https://intranet.alxswe.com/rltoken/KbtA1HviUzwSAVwm72ZNPA)
+* [Tink - Léonie Watson – On technology, food & life in the digital age](https://intranet.alxswe.com/rltoken/Fm_xE3GU67WDAE6RvGv5ag)
+* [Articles » Simply Accessible](https://intranet.alxswe.com/rltoken/CJ-glAh0iQ0QD0wEznP7BQ)
+* [Accessibility Weekly](https://intranet.alxswe.com/rltoken/XFrn7M2wCs0LJDx1Zr0K4A)
+* [European label (Web Accessibility): Euracert - Home page](https://intranet.alxswe.com/rltoken/NpygpJAwRlbM1Wwh5sOCsQ)
+* [Section508.gov | GSA Government-wide IT Accessibility Program](https://intranet.alxswe.com/rltoken/wW72CncGykfWc8-bnjU2JA)
 
 ## Alx-React :file_folder:
 
