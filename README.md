@@ -26,8 +26,17 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
     - [Markdown to HTML](#markdown-to-html)
     - [Form](#form)
     - [Accessibility](#accessibility)
+    - [Sass \& Scss](#sass--scss)
   - [Alx-React :file\_folder:](#alx-react-file_folder)
     - [0x00-Webpack](#0x00-webpack)
+    - [0x01. React intro](#0x01-react-intro)
+    - [0x02. React props](#0x02-react-props)
+    - [0x03. React component](#0x03-react-component)
+    - [0x04. React inline styling](#0x04-react-inline-styling)
+    - [0x05. React state](#0x05-react-state)
+    - [0x06. React Immutable](#0x06-react-immutable)
+    - [0x07. React Redux action creator+normalizr](#0x07-react-redux-action-creatornormalizr)
+    - [0x08. React Redux reducer+selector](#0x08-react-redux-reducerselector)
   - [Alx-Python-Backend: :file\_folder:](#alx-python-backend-file_folder)
     - [0x00-Python-Variable\_annotations](#0x00-python-variable_annotations)
     - [0x01-Python-Async](#0x01-python-async)
@@ -158,6 +167,12 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 * [European label (Web Accessibility): Euracert - Home page](https://intranet.alxswe.com/rltoken/NpygpJAwRlbM1Wwh5sOCsQ)
 * [Section508.gov | GSA Government-wide IT Accessibility Program](https://intranet.alxswe.com/rltoken/wW72CncGykfWc8-bnjU2JA)
 
+### Sass & Scss
+
+* [Sass Basics](https://intranet.alxswe.com/rltoken/kLRkCzW0Yvkj0H6u0AxBVg)
+* [Sass flow control directives: @if, @for, @each and @while](https://intranet.alxswe.com/rltoken/yQhZfQxQtH5dUc3iiTfjMQ)
+* [Sass references](https://intranet.alxswe.com/rltoken/Pq23qrLxlxGpiintmVQ4zg)
+
 ## Alx-React :file_folder:
 
 ### 0x00-Webpack
@@ -165,6 +180,84 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Webpack documentation](https://webpack.js.org/concepts/)
 - [Webpack beginner guide](https://www.sitepoint.com/webpack-beginner-guide/)
 - [npm-package.json](https://docs.npmjs.com/cli/v9/configuring-npm/package-json)
+
+### 0x01. React intro
+
+* [React Official Website](https://intranet.alxswe.com/rltoken/gTvHLsLFztlLKOsHVG2wFw)
+* [Getting started with React](https://intranet.alxswe.com/rltoken/sIVpPWBHBHRzp9cFX946_g)
+* [React overview](https://intranet.alxswe.com/rltoken/i9pnIXDEU-Q6baHKa_S_tQ)
+* [create-react-app](https://intranet.alxswe.com/rltoken/XRP9_jP0G0vQODINFymubQ)
+* [React Developer Tools](https://intranet.alxswe.com/rltoken/-no3Szs-PJQ_P_urpa4FSQ)
+* [What is Babel?](https://intranet.alxswe.com/rltoken/FOdRx4EZKIpoMEny-jxMXQ)
+* [Enzyme](https://intranet.alxswe.com/rltoken/AlilVwpyEpGwPOK40d5dXw)
+
+### 0x02. React props
+
+* [React Official Website](https://intranet.alxswe.com/rltoken/XY-3QaRU8GcLgridCcoi3w)
+* [Getting started with React](https://intranet.alxswe.com/rltoken/ASa6F8XX2jbBmfw0Ka4DtQ)
+* [React overview](https://intranet.alxswe.com/rltoken/IJwNnC1aH7pjUXM_16-FwQ)
+* [React Developer Tools](https://intranet.alxswe.com/rltoken/2vQpS-pQNQ474_yClKpi2w)
+* [Enzyme](https://intranet.alxswe.com/rltoken/qsgGsN2WTikhObfGDALAeA)
+* [React Fragments](https://intranet.alxswe.com/rltoken/UvnW7wfcZNSm-4DQ_P7w4g)
+* [Typechecking with PropTypes](https://intranet.alxswe.com/rltoken/gYxhaEDW67VCZd9ebOT5cA)
+
+### 0x03. React component
+
+* [React components](https://intranet.alxswe.com/rltoken/eHblf6Gksn6yyB63AxL95Q)
+* [React Developer Tools](https://intranet.alxswe.com/rltoken/ISa2LQiraDIOLg6hSp6GqA)
+* [Enzyme Shallow](https://intranet.alxswe.com/rltoken/R4sY6vv0_EZi5BwskKwOLg)
+* [Enzyme Mount](https://intranet.alxswe.com/rltoken/-cuX84kIn3EWCuJNx-P74A)
+* [Enzyme Unmount](https://intranet.alxswe.com/rltoken/yQlfthRXFmRQHkNSDzMTag)
+* [React Pure components](https://intranet.alxswe.com/rltoken/JYDb2WZMLwBxM9qHjTVdpA)
+* [React Higher Order Components](https://intranet.alxswe.com/rltoken/AQ3a58-uRtO20Ysam9M6vw)
+* [Jest mock function](https://intranet.alxswe.com/rltoken/W0QL_4bEjld02Hr2-qQYrw)
+
+### 0x04. React inline styling
+
+* [Aphrodite](https://intranet.alxswe.com/rltoken/DfGvHrI6zsKtKFEYWajLoA)
+* [Inline styling](https://intranet.alxswe.com/rltoken/s2il-pXJvk6Lxj6BmAWG9Q)
+* [Enzyme Render](https://intranet.alxswe.com/rltoken/hX2sEidBZzVuGUNhCv3MWA)
+* [Enzyme Prop](https://intranet.alxswe.com/rltoken/lhm4Qeyjz3oyCa6C4zgzCQ)
+* [CSS Viewport](https://intranet.alxswe.com/rltoken/IegHHFC5DpSqXeHIccDZDg)
+* [CSS Media queries](https://intranet.alxswe.com/rltoken/6-GPqaJjRsdE9qgy_8ZTpg)
+* [CSS Animations](https://intranet.alxswe.com/rltoken/z02z0ouci-gTwD0zDk5Kcw)
+
+### 0x05. React state
+
+* [State and lifecycle](https://intranet.alxswe.com/rltoken/rL2YOlSKI2HlcenyNz5cqQ)
+* [SetState and State callback](https://intranet.alxswe.com/rltoken/AeohbCmE3m-m-xgABFWgIA)
+* [Context](https://intranet.alxswe.com/rltoken/SZ1mD7nEblEVUPrrN6SrRA)
+* [Forms and Controlled components](https://intranet.alxswe.com/rltoken/lBhcM3C1FOwY7uGYyNMclg)
+* [Lifting State Up](https://intranet.alxswe.com/rltoken/iZ1dULJUZE85Lh0-yTSpYg)
+* [React Hooks](https://intranet.alxswe.com/rltoken/4lSNYIQ67BkW53J7kGCccQ)
+* [Enzyme State](https://intranet.alxswe.com/rltoken/rSRoY2jGlahlH8KkZDWK0w)
+* [Enzyme SetState](https://intranet.alxswe.com/rltoken/D9kg4M6VVxAga9-iJVgsYg)
+* [Enzyme Instance](https://intranet.alxswe.com/rltoken/wqn34UANx7UE2nkolU-ntg)
+* [Enzyme Simulate](https://intranet.alxswe.com/rltoken/GdM5eK75XXsl1EVqAJ4q5w)
+
+### 0x06. React Immutable
+
+* [Immutable Object concept](https://intranet.alxswe.com/rltoken/C34VL1Db887N_zzjmpOU_w)
+* [Immutable.js Documentation](https://intranet.alxswe.com/rltoken/oDyg_FOCdEEcLfpNnSMWmg)
+* [Immutable.js GitHub](https://intranet.alxswe.com/rltoken/Za6PJtr1M59G7ktu5D_X3g)
+
+### 0x07. React Redux action creator+normalizr
+
+* [Normalizr](https://intranet.alxswe.com/rltoken/lApUP5b9xtR2_yW2f2WsLA)
+* [Normalizing State Shape](https://intranet.alxswe.com/rltoken/fFyKP9fUVnyFCTOCeLUN4A)
+* [Redux Getting started and core concepts](https://intranet.alxswe.com/rltoken/PgOVCavA2EKKaXevbEeq4A)
+* [Redux Actions](https://intranet.alxswe.com/rltoken/0XROwvWYxWqt97UmKDM7lw)
+* [Async Actions](https://intranet.alxswe.com/rltoken/hLMWlnrGL4NAq-vZ_S560w)
+* [Writing tests for Redux](https://intranet.alxswe.com/rltoken/TpqsZMneviPn4OiD8PPNqg)
+
+### 0x08. React Redux reducer+selector
+
+* [Reducers](https://intranet.alxswe.com/rltoken/SzgQcaVZ6qtF1ccU-S2DiA)
+* [Selectors](https://intranet.alxswe.com/rltoken/m3ctiAA74QV6YYqZ8YBZTQ)
+* [Writing tests](https://intranet.alxswe.com/rltoken/E5mFy6WxHnMfIwxYhy2gzw)
+* [Immutable Map documentation](https://intranet.alxswe.com/rltoken/oeA22lgPb_GvU1nOzWoA3w)
+* [Normalizr](https://intranet.alxswe.com/rltoken/fmN8EIQtqvKbLVgJuRyM0Q)
+* [Normalizing State Shape](https://intranet.alxswe.com/rltoken/wCbecNeGJhMu3hu38S7RCw)
 
 ## Alx-Python-Backend: :file_folder:
 
